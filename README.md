@@ -66,3 +66,15 @@ Also: [llms.txt](https://www.scriptmasterlabs.com/llms.txt) · [sitemap](https:/
 - **Email:** via site contact / publisher channels  
 
 *Public business location: Kinston, NC 28504 (service-area / remote nationwide).*
+
+## Premium Capability Index (live)
+Agents don't browse READMEs — they query indexes.
+
+- **Pricing (Starter $49/mo):** https://www.scriptmasterlabs.com/pricing.html
+- **Why agents need this:** https://www.scriptmasterlabs.com/ai-agent-api-discovery-premium-index.html
+- **Dev.to:** https://dev.to/scriptmaster78/your-api-is-invisible-to-ai-agents-fix-it-with-a-hosted-capability-index-49-2mmm
+- **IMP protocol (free):** https://github.com/Timwal78/intention-market-protocol
+- **Match API docs:** https://mcp-x402.onrender.com/v1
+
+**Public NAP:** Script Master Labs, LLC · Kinston, NC 28504 · 321-261-8620 · UEI G24VZA4RLMK3 · CAGE 21U51
+
